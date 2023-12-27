@@ -3,7 +3,7 @@
 I'm a passionate Embedded Engineer specializing in C and C++. Here's a bit about me:
 
 - 🔭 I’m currently working on my personal development environment (PDE), deciding on text editor and min-maxing performance vs features
-- 🌱 I’m currently primarily learning/studying C++
+- 🌱 I’m currently primarily learning/studying C++ for work and Python for personal scripting
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with my PDE, trying to combine VIM-motions and the convenience of Sublime/VSCode
 - 💬 Ask me about Embedded Systems, C/C++ Programming or Python and Bash/PowerShell scripting
