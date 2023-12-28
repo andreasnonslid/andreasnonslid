@@ -22,4 +22,5 @@ I'm a passionate Embedded Engineer specializing in C and C++. Here's a bit about
 
 ## Connect with Me
 - LinkedIn: [link](https://www.linkedin.com/in/andreas-nonslid-h%C3%A5vardsen-6839a0174/)
+- BoardGameArena: [link](https://boardgamearena.com/player?id=85407199)
 
