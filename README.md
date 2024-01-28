@@ -17,6 +17,11 @@ I'm a Embedded Engineer specializing in C and C++. I love optimizing my workflow
 - Typescript + Javascript
 - Lua
 
+## My current setup
+- Termninal emulator: Alacritty
+- Shell: Git Bash, but prefer to use WSL -> Debian
+- Text editor: Neovim
+
 ## Connect with Me
 - LinkedIn: [link](https://www.linkedin.com/in/andreas-nonslid-h%C3%A5vardsen-6839a0174/)
 - BoardGameArena: [link](https://boardgamearena.com/player?id=85407199)
