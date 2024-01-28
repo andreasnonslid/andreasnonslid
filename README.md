@@ -2,8 +2,6 @@
 
 I'm a Embedded Engineer specializing in C and C++. I love optimizing my workflow, development setup and tooling. Here's a bit about me:
 
-- 📫 How to reach me: [Email](mailto:andreas.nonshaav@hotmail.com)
-
 ## My specialties
 - C / C++
 - CMake
@@ -23,6 +21,7 @@ I'm a Embedded Engineer specializing in C and C++. I love optimizing my workflow
 - Text editor: Neovim
 
 ## Connect with Me
-- LinkedIn: [link](https://www.linkedin.com/in/andreas-nonslid-h%C3%A5vardsen-6839a0174/)
-- BoardGameArena: [link](https://boardgamearena.com/player?id=85407199)
+- Email: [email link](mailto:andreas.nonshaav@hotmail.com)
+- LinkedIn: [web link](https://www.linkedin.com/in/andreas-nonslid-h%C3%A5vardsen-6839a0174/)
+- BoardGameArena: [web link](https://boardgamearena.com/player?id=85407199)
 
