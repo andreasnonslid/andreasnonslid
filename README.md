@@ -1,6 +1,6 @@
 # Hi there, I'm Andreas Nonslid Håvardsen👋
 
-I'm a Embedded Engineer specializing in C and C++. I love optimizing my workflows, development setup and tooling. Here's a bit about me:
+I'm a Embedded Engineer specializing in C and C++. I love optimizing my workflow, development setup and tooling. Here's a bit about me:
 
 - 📫 How to reach me: [Email](mailto:andreas.nonshaav@hotmail.com)
 
