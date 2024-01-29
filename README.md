@@ -17,7 +17,7 @@ I'm a Embedded Engineer specializing in C and C++. I love optimizing my workflow
 
 ## My current setup
 - Termninal emulator: Alacritty
-- Shell: Git Bash, but prefer to use WSL -> Debian
+- Shell: Git Bash
 - Text editor: Neovim
 
 ## Connect with Me
