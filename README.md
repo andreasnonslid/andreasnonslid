@@ -8,10 +8,10 @@ I'm a Embedded Engineer specializing in C and C++. I love optimizing my workflow
 - Python
 - Bash
 
-## My side projects
+## My side projects have typically used
 - AutoHotkey (v1 and v2)
 - PowerShell
-- Matlab
+- Matlab (it is pretty nice sometimes!)
 - Typescript + Javascript
 - Lua
 
