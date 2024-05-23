@@ -1,6 +1,6 @@
 # Hi there, I'm Andreas Nonslid Håvardsen👋
 
-I'm an Embedded Engineer specializing in C and C++. I love optimizing my workflow, development setup and tooling. Here's a bit about me:
+I'm an Embedded Engineer working with C and C++. Here's a bit about me:
 
 ## My projects typically use
 - C / C++ (w/ CMake)
@@ -15,7 +15,7 @@ I'm an Embedded Engineer specializing in C and C++. I love optimizing my workflo
 - Matlab (it is pretty nice sometimes!)
 
 ## My current setup
-- Terminal emulator: Alacritty
+- Terminal emulator: Alacritty (moving to Contour or Ghostyy soon)
 - Shell: WSL - Ubuntu
 - Text editor: Neovim
 
