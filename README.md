@@ -15,8 +15,9 @@ I'm an Embedded Engineer working with C and C++. Here's a bit about me:
 - Matlab (it is pretty nice sometimes!)
 
 ## My current setup
-- Terminal emulator: Alacritty (moving to Contour or Ghostyy soon)
-- Shell: WSL - Ubuntu
+- openSUSE Tumbleweed
+- Terminal emulator: undecided..
+- Shell: Bash
 - Text editor: Neovim
 
 ## Connect with Me
