@@ -16,7 +16,7 @@ I'm an Embedded Engineer working with C and C++. Here's a bit about me:
 
 ## My current setup
 - openSUSE Tumbleweed
-- Terminal emulator: undecided..
+- Terminal emulator: Ghostty
 - Shell: Bash
 - Text editor: Neovim
 
