@@ -15,7 +15,7 @@ I'm an Embedded Engineer working with C and C++. Here's a bit about me:
 - Golang
 - Zig
 - Elixir
-- Matlab (it is pretty nice sometimes!)
+- Matlab
 
 ## My current setup
 - openSUSE Tumbleweed
