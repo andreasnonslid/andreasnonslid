@@ -12,6 +12,9 @@ I'm an Embedded Engineer working with C and C++. Here's a bit about me:
 - PowerShell
 - Typescript + Javascript
 - Lua
+- Golang
+- Zig
+- Elixir
 - Matlab (it is pretty nice sometimes!)
 
 ## My current setup
