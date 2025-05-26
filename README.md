@@ -2,29 +2,27 @@
 
 I'm an Embedded Engineer working with C and C++. Here's a bit about me:
 
-## My projects typically use
+## Professionally used (in order of use)
 - C / C++ (w/ CMake)
 - Python
 - Bash
-
-## My side projects have sometimes used
-- AutoHotkey (v1 and v2)
-- PowerShell
 - Typescript + Javascript
-- Lua
+
+## Personal projects have sometimes used (in order of use)
 - Golang
-- Zig
+- Lua
+- AutoHotkey (v1 and v2)
+- OCaml
 - Elixir
-- Matlab
+- Zig
 
 ## My current setup
 - openSUSE Tumbleweed
-- Terminal emulator: Ghostty
-- Shell: Bash
-- Text editor: Neovim
+- Ghostty
+- Bash
+- Neovim
 
 ## Connect with Me
 - Email: [email link](mailto:andreas.nonshaav@hotmail.com)
 - LinkedIn: [web link](https://www.linkedin.com/in/andreas-nonslid-h%C3%A5vardsen-6839a0174/)
 - BoardGameArena: [web link](https://boardgamearena.com/player?id=85407199)
-
