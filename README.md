@@ -9,6 +9,7 @@ I'm an Embedded Engineer currently working at AutoStore AS, programming MCUs wit
 - Typescript + Javascript
 
 ## Personal projects have sometimes used (in order of use)
+- Nim
 - Golang
 - Lua
 - AutoHotkey (v1 and v2)
