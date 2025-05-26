@@ -2,7 +2,7 @@
 
 I'm an Embedded Engineer currently working at AutoStore AS, programming MCUs with C and C++.
 
-## Professionally used (in order of use)
+## Professionally used programming languages (in order of use)
 - C / C++ (w/ CMake)
 - Python
 - Bash
