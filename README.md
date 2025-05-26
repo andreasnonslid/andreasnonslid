@@ -8,7 +8,7 @@ I'm an Embedded Engineer currently working at AutoStore AS, programming MCUs wit
 - Bash
 - Typescript + Javascript
 
-## Personal projects have sometimes used (in order of use)
+## Personal projects/tools have sometimes used (in order of use)
 - Nim
 - Golang
 - Lua
