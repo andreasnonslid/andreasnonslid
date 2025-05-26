@@ -13,6 +13,7 @@ I'm an Embedded Engineer currently working at AutoStore AS, programming MCUs wit
 - Golang
 - Lua
 - AutoHotkey (v1 and v2)
+- Perl
 - OCaml
 - Elixir
 - Zig
