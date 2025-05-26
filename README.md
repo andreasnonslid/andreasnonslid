@@ -1,6 +1,6 @@
 # Hi there, I'm Andreas Nonslid Håvardsen👋
 
-I'm an Embedded Engineer working with C and C++. Here's a bit about me:
+I'm an Embedded Engineer currently working at AutoStore AS, programming MCUs with C and C++.
 
 ## Professionally used (in order of use)
 - C / C++ (w/ CMake)
