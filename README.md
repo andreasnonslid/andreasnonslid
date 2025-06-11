@@ -21,7 +21,7 @@ I'm an Embedded Engineer currently working at AutoStore AS, programming MCUs wit
 ## My current setup
 - openSUSE Tumbleweed
 - Ghostty
-- Bash
+- Fish
 - Neovim
 
 ## Connect with Me
