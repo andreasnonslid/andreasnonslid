@@ -1,27 +1,23 @@
 # Hi there, I'm Andreas Nonslid Håvardsen👋
 
-I'm an Embedded Engineer currently working at AutoStore AS, programming MCUs with C and C++.
+I'm an Embedded Engineer currently working at AutoStore AS, programming MCUs primarily using C and C++.
 
-## Professionally used programming languages (in order of use)
+## Professional (in order of use)
 - C / C++ (w/ CMake)
 - Python
 - Bash
 - Typescript + Javascript
 
-## Personal projects/tools have sometimes used (in order of use)
-- Nim
+## Hobby (in order of use)
 - Golang
 - Lua
 - AutoHotkey (v1 and v2)
 - Perl
-- OCaml
-- Elixir
-- Zig
 
 ## My current setup
-- openSUSE Tumbleweed
-- Ghostty
-- Fish
+- openSUSE Tumbleweed / WSL for it on work laptop
+- Ghostty / or Windows Terminal on work laptop
+- bash
 - Neovim
 
 ## Connect with Me
